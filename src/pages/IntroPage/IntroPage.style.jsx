@@ -19,5 +19,6 @@ export const ButtonStyled = styled.span`
   );
   border-radius: 999px;
   color: #fff;
-  padding: 12px 35px
+  padding: 12px 35px;
+  font-size: 18px;
 `;

@@ -1,0 +1,28 @@
+.bak-card {
+	border-radius: 30px;
+	color: #fff;
+	max-width: 247px;
+	min-height: 320px; 
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	padding: 20px;
+	font-size: 15.65px;
+}
+
+.bak-card.purple-card {
+	background: radial-gradient(97.75% 97.75% at 0% 2.25%, #5151F7 0%, #B196FF 100%);
+}
+
+.bak-card.pink-card {
+	background: radial-gradient(97.32% 97.32% at 6.07% 1.69%, #EC6DEF 0%, #FFD098 100%);
+	border-radius: 30px;
+}
+
+.bak-card h3 {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	padding-bottom: 0;
+	line-height: 22px;
+}
